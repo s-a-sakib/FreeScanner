@@ -1,0 +1,6 @@
+{
+  "name": "FreeScanner",
+  "description": "A free, open-source, fully offline document scanner and PDF toolkit for Android.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": []
+}
